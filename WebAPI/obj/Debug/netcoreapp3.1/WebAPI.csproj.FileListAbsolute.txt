@@ -1,0 +1,748 @@
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Ashish.Gupta\Desktop\API & React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\BloodDonationProject\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\Discount Calculator Without Mediator\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Ashish.Gupta\Desktop\API and React\DiscountCalculatorAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
